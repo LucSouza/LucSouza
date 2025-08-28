@@ -5,10 +5,10 @@
 
 - 🌱 I’m currently learning blockchain at ETH-KIPU academy and java back-end with spring boot in FIAP post graduation.
 - 🔭 I’m currently working on as a software developer at AGnes
-<a href='https://www.linkedin.com/company/agnes-sistema/posts/?feedView=all' height='150px'> <img src="https://media.licdn.com/dms/image/v2/C4D0BAQE9hXvXzVaZSQ/company-logo_100_100/company-logo_100_100/0/1661283113962/agnes_sistema_logo?e=1759363200&v=beta&t=GIYE0iZlGmjz2Xh_LDLvK5YsoftAwBrxhZcrEVS9kk8" /> </a>
+<a href='https://www.linkedin.com/company/agnes-sistema/posts/?feedView=all' height='150px'> <img width="32" height="32" src="https://media.licdn.com/dms/image/v2/C4D0BAQE9hXvXzVaZSQ/company-logo_100_100/company-logo_100_100/0/1661283113962/agnes_sistema_logo?e=1759363200&v=beta&t=GIYE0iZlGmjz2Xh_LDLvK5YsoftAwBrxhZcrEVS9kk8" /> </a>
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: love techonology since i was 10 years old, already fix many things but broke some too. 
-- 📫 How to reach me: <a href='https://www.linkedin.com/in/lsouzaprog/' target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" max-height="100%" /></a>
+- 📫 How to reach me: <a href='https://www.linkedin.com/in/lsouzaprog/' target="_blank"> <img height="24" src="https://img.shields.io/badge/-LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" max-height="100%" /></a>
 - 💻 Techonologies: 
 <p align="center">
   <a href="https://skillicons.dev">
