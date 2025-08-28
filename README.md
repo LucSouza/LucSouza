@@ -16,8 +16,8 @@
   </a>
 </p>
 <div  align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </div>
 
 ![Snake animation](https://github.com/LucSouza/LucSouza/blob/output/github-contribution-grid-snake.svg)
